@@ -1,9 +1,9 @@
-kordz3
+:star: kordz3 :star:
 ======
 
-Kordz2 M4L Effect
+Kordz3 M4L Effect
 
-Copyright (C) 2014  Dávid Szakállas
+Copyright (C) 2015  Dávid Szakállas
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -43,7 +43,7 @@ How-to
 
 - install: copy Kordz3.amxd to ‘user_lib/Presets/MIDI Effects/Max MIDI Effect‘ where user_lib is your Ableton User Library folder.
 
-- use: search for Kordz3 in Live then drag and drop it before your instrument. To assign a chord to a bank, click on the number of the bank then input the notes with your mouse on the screen. To end modifying, click on the bank once again. To modify another bank, click on the other bank. Incoming notes from C1 to A1 will trigger output. Kordz3 starts numbering banks from 36 (C1). If you would like to use a different pitch, place a ‘Pitch’ MIDI effect before it (or edit the patch :) ).
+- use: search for Kordz3 in Live then drag and drop it before your instrument. To assign a chord to a bank, click on the number of the bank then input the notes with your mouse on the screen. To end modifying, click on the bank once again. To modify another bank, click on the other bank. Incoming notes from C1 to A1 will trigger output. Kordz3 starts numbering banks from 36 (C1). If you would like to use a different pitch, place a ‘Pitch’ MIDI effect before it (or edit the patch :smile: ).
 
 License
 -------
